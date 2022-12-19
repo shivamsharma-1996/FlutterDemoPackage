@@ -9,7 +9,8 @@ This project is a starting point for a Flutter
 a specialized package that includes platform-specific implementation code for
 Android and/or iOS.
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![pub package](https://img.shields.io/pub/v/fluttertoastpackage.svg)](https://pub.dartlang.org/packages/fluttertoastpackage)
+<a href="https://github.com/shivamsharma-1996/FlutterDemoPackage/releases">
+<img src="https://img.shields.io/github/v/release/shivamsharma-1996/FlutterDemoPackage.svg" />
+</a>
 
