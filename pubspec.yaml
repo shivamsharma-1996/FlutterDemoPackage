@@ -1,7 +1,7 @@
-name: fluttertoast
+name: flutterDemoPackage
 description: A new Flutter project.
 version: 0.0.1
-homepage: https:
+homepage: https://github.com/shivamsharma-1996/FlutterDemoPackage
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
